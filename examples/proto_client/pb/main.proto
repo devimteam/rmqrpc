@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package pb;
+
+message TestRequest {
+    string Name = 1;
+}
+
+message TestResponse {
+    string Name = 1;
+}
