@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/l-vitaly/rmqrpc"
-	pbmain "github.com/l-vitaly/rmqrpc/examples/proto_server/pb"
-	"github.com/l-vitaly/rmqrpc/metadata"
-	"github.com/l-vitaly/rmqrpc/proto"
+	"github.com/devimteam/rmqrpc"
+	pbmain "github.com/devimteam/rmqrpc/examples/proto_server/pb"
+	"github.com/devimteam/rmqrpc/metadata"
+	"github.com/devimteam/rmqrpc/proto"
 	"github.com/streadway/amqp"
 	"golang.org/x/net/context"
 )

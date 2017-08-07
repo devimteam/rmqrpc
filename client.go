@@ -4,7 +4,7 @@ import (
 	"context"
 	"math/rand"
 
-	"github.com/l-vitaly/rmqrpc/metadata"
+	"github.com/devimteam/rmqrpc/metadata"
 	"github.com/streadway/amqp"
 )
 

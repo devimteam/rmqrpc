@@ -2,7 +2,7 @@ package proto
 
 import (
 	"github.com/gogo/protobuf/proto"
-	"github.com/l-vitaly/rmqrpc"
+	"github.com/devimteam/rmqrpc"
 )
 
 func (e *Error) Error() string {

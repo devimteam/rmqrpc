@@ -1,6 +1,6 @@
 package json
 
-import "github.com/l-vitaly/rmqrpc"
+import "github.com/devimteam/rmqrpc"
 
 type Error struct {
 	// A Number that indicates the error type that occurred.

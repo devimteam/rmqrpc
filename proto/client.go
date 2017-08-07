@@ -4,7 +4,7 @@ import (
 	"reflect"
 
 	"github.com/gogo/protobuf/proto"
-	"github.com/l-vitaly/rmqrpc"
+	"github.com/devimteam/rmqrpc"
 	"github.com/streadway/amqp"
 )
 

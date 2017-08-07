@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/l-vitaly/rmqrpc"
-	"github.com/l-vitaly/rmqrpc/json"
+	"github.com/devimteam/rmqrpc"
+	"github.com/devimteam/rmqrpc/json"
 	"github.com/streadway/amqp"
 	"golang.org/x/net/context"
 )

@@ -2,7 +2,7 @@ package json
 
 import (
 	"encoding/json"
-	"github.com/l-vitaly/rmqrpc"
+	"github.com/devimteam/rmqrpc"
 )
 
 type serverResponse struct {

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/l-vitaly/rmqrpc/metadata"
+	"github.com/devimteam/rmqrpc/metadata"
 	"github.com/streadway/amqp"
 	"golang.org/x/net/context"
 )

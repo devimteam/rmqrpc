@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/l-vitaly/rmqrpc"
+	"github.com/devimteam/rmqrpc"
 	"github.com/streadway/amqp"
 )
 

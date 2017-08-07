@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/l-vitaly/rmqrpc/json"
+	"github.com/devimteam/rmqrpc/json"
 	"github.com/streadway/amqp"
 )
 
